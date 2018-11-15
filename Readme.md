@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default1.aspx](./CS/WebSite/Default1.aspx) (VB: [Default1.aspx](./VB/WebSite/Default1.aspx))
+* [Default1.aspx.cs](./CS/WebSite/Default1.aspx.cs) (VB: [Default1.aspx](./VB/WebSite/Default1.aspx))
+* [Default2.aspx](./CS/WebSite/Default2.aspx) (VB: [Default2.aspx](./VB/WebSite/Default2.aspx))
+* [Default2.aspx.cs](./CS/WebSite/Default2.aspx.cs) (VB: [Default2.aspx](./VB/WebSite/Default2.aspx))
+<!-- default file list end -->
 # ASPxGridView - How to implement instant editing with check boxes in columns
 
 
