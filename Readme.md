@@ -8,6 +8,9 @@
 * [Default2.aspx.cs](./CS/WebSite/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/WebSite/Default2.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to implement instant editing with check boxes in columns
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5128/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to implement instant editing in ASPxGridView. It is divided in two independent samples:</p><p>- The first sample (the Default1 page) illustrates how to post modified data to the underlying database on demand. Note that starting with v2013 vol 2, we provide a similar feature out-of-the-box: <a href="http://documentation.devexpress.com/#AspNet/CustomDocument16443"><u>Batch Edit Mode</u></a>.<br />
