@@ -51,5 +51,5 @@ protected void cb_Init(object sender, EventArgs e) {
 
 ## More Examples
 
-* [Gride View for ASP.NET Web Forms - How to use template editors to update grid data](https://github.com/DevExpress-Examples/how-to-perform-aspxgridview-instant-updating-using-different-editors-in-the-dataitem-template-e2333)
+* [Grid View for ASP.NET Web Forms - How to use template editors to update grid data](https://github.com/DevExpress-Examples/how-to-perform-aspxgridview-instant-updating-using-different-editors-in-the-dataitem-template-e2333)
 * [Grid View for ASP.NET Web Forms - Implement the multi-row edit functionality in a dynamically bount multi-page grid](https://github.com/DevExpress-Examples/implement-the-multi-row-editing-functionality-with-a-multi-page-grid-bound-dynamically-e1318)
