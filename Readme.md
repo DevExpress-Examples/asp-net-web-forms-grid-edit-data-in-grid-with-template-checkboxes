@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to edit data in the grid with template checkboxes
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128534838/)**
-<!-- run online end -->
 
 This example demonstrates how to create templated columns, add checkbox editors to the templates, and configure the grid's cell edit functionality. The following approaches are available:
 
